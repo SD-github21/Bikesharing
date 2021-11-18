@@ -9,9 +9,14 @@ The purpose of the Bikesharing analysis was to utilize a business intelligence s
 
 ## Results
 
-### The NYC Citibike Story
+### The NYC Citibike Analysis Story
 
+(1) NYC Citibike Overview - August Data 
 
+![image](https://user-images.githubusercontent.com/85533099/142348851-b4dc652e-6a1f-4e99-98d0-ee3cb5e645d5.png)
+
+The above dashboard depicts an overview of basic information about the NYC Citibike program including the following key findings:
+  - 
 
 ### Conducting a customized search for UFO sightings from the data table 
 
