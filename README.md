@@ -7,6 +7,7 @@ The purpose of the Bikesharing analysis was to utilize a business intelligence s
 - Data Sources: citibike_challenge.csv
 - Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebooks, Tableau Public 2021.3
 
+
 ## The NYC Citibike Analysis Story -- Results of the Bikesharing Analysis
 
 ### (1) The NYC Citibike Overview - August Data Dashboard
@@ -24,7 +25,14 @@ The above dashboard depicts an overview of basic information about the NYC Citib
       - Females comprise approximately 25.10% of the customer population (588,431)   
       - 225,521 customers did not specific their gender and comprised 9.62% of the entire customer population
 
+### (2) August Peak Hours
 
+![image](https://user-images.githubusercontent.com/85533099/142352530-65190da4-9e53-4466-9e97-3c90eb2101a0.png)
+
+The next slide in our story shows the peak hours of bike usage in the month of August. This visualization reveals:
+  - The start time of 5:00pm yields the largest number of bikes utilized, i.e., 224,566
+  - The highest bike usage occurs within the time frame of 5:00pm-7:00pm  
+  - The second highest bike usage occurs within the 8:00am-9:00am hour
 
 ## Summary and Recommendations
 
