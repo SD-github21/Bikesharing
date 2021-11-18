@@ -7,11 +7,9 @@ The purpose of the Bikesharing analysis was to utilize a business intelligence s
 - Data Sources: citibike_challenge.csv
 - Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebooks, Tableau Public 2021.3
 
-## Results
+## The NYC Citibike Analysis Story -- Results of the Bikesharing Analysis
 
-### The NYC Citibike Analysis Story
-
-(1) NYC Citibike Overview - August Data 
+### (1) The NYC Citibike Overview - August Data Dashboard
 
 ![image](https://user-images.githubusercontent.com/85533099/142350089-f044d21c-c6d5-4c24-b261-94005c70a195.png)
 
@@ -26,7 +24,7 @@ The above dashboard depicts an overview of basic information about the NYC Citib
       - Females comprise approximately 25.10% of the customer population (588,431)   
       - 225,521 customers did not specific their gender and comprised 9.62% of the entire customer population
 
-### Conducting a customized search for UFO sightings from the data table 
+
 
 ## Summary and Recommendations
 
