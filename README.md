@@ -6,8 +6,7 @@ The purpose of the Bikesharing analysis was to utilize a business intelligence s
 ## Resources
 - Data Sources: citibike_challenge.csv
 - Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebooks, Tableau Public 2021.3
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## The NYC Citibike Analysis Story -- Results of the Bikesharing Analysis
 
