@@ -38,7 +38,7 @@ The next slide in our story shows the length of time in minutes that bikes are c
 
 ![image](https://user-images.githubusercontent.com/85533099/142353454-656491be-ac98-46dc-b6fa-aa5a4766e600.png)
 
-### (3) Checkout Time for Users
+### (4) Checkout Time by Gender
 The next slide in our story shows the length of time in minutes that bikes are checked out by gender. The line charts for both females and males seem to mirror the above findings with respective peaks at the 5 minute mark and tapering down thereafter. However, bike usage for the group of customers whose gender is unknown appears to be steadier up to the 40 minute mark. 
 
 ![image](https://user-images.githubusercontent.com/85533099/142354558-fe99d79f-60c3-413f-b219-645e19401734.png)
