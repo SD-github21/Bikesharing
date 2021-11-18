@@ -11,10 +11,7 @@ The purpose of the Bikesharing analysis was to utilize a business intelligence s
 ## The NYC Citibike Analysis Story -- Results of the Bikesharing Analysis
 
 ### (1) The NYC Citibike Overview - August Data Dashboard
-
-![image](https://user-images.githubusercontent.com/85533099/142350089-f044d21c-c6d5-4c24-b261-94005c70a195.png)
-
-The above dashboard depicts an overview of basic information about the NYC Citibike program including the following key findings based on data from the month of August:
+The below dashboard depicts an overview of basic information about the NYC Citibike program including the following key findings based on data from the month of August:
 
   - We start with a bird's-eye view of NYC with the "Top Starting Locations" map, which reveals the concentration of top locations where customers' bike journeys began in Manhattan
   - Next, our data shifts to the customer-level, where we can understand the population of customers participating in the Citibike program in more detail:
@@ -25,14 +22,19 @@ The above dashboard depicts an overview of basic information about the NYC Citib
       - Females comprise approximately 25.10% of the customer population (588,431)   
       - 225,521 customers did not specific their gender and comprised 9.62% of the entire customer population
 
+![image](https://user-images.githubusercontent.com/85533099/142350089-f044d21c-c6d5-4c24-b261-94005c70a195.png)
+
+
 ### (2) August Peak Hours
-
-![image](https://user-images.githubusercontent.com/85533099/142352530-65190da4-9e53-4466-9e97-3c90eb2101a0.png)
-
 The next slide in our story shows the peak hours of bike usage in the month of August. This visualization reveals:
   - The start time of 5:00pm yields the largest number of bikes utilized, i.e., 224,566
   - The highest bike usage occurs within the time frame of 5:00pm-7:00pm  
   - The second highest bike usage occurs within the 8:00am-9:00am hour
+
+![image](https://user-images.githubusercontent.com/85533099/142352530-65190da4-9e53-4466-9e97-3c90eb2101a0.png)
+
+### (3) 
+
 
 ## Summary and Recommendations
 
