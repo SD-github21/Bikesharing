@@ -1,9 +1,8 @@
-# Bikesharing Analysis
+# The NYC Citibike Analysis Story
 
-## The NYC Citibike Analysis Story
 The purpose of the Bikesharing analysis was to utilize a business intelligence software, Tableau, in order to develop data analysis visualizations that can provide potential investors with valuable insights about the viability of implementing a bike-sharing program in Des Moines, Iowa based upon data from a similar program in New York City. A "NYC Citibike Story" was created within Tableau to build a dynamic and informative business proposal.  
 
-## Resources
+### Resources
 - Data Sources: citibike_challenge.csv
 - Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebooks, Tableau Public 2021.3
 
@@ -57,6 +56,9 @@ The next slide in our story is a heatmap representing the number of bike trips b
 ![image](https://user-images.githubusercontent.com/85533099/142559384-4ce9d0a2-c4bf-441d-b5e4-807e98f9523c.png)
 
 ### (7) User Trips by Gender by Weekday
+Finally, the last visualization in our story is a heatmap showing the number of bike trips broken down by gender for each day of the week by each Usertype (e.g., one-time customers and subscribers). This heatmap provides even more interesting and refined results than the previous heatmaps. When we examine the breakdown of bike trips in this manner, we see that one-time customers seem to have a comparable number of bike trips when examining gender, i.e., there appears to be no observable significant difference between the gender categories in volume of bike trips taken during different days of the week. However, this changes remarkably when viewing the data for subscribers. 
+
+![image](https://user-images.githubusercontent.com/85533099/142559933-886d77d4-6b89-494b-8659-efacd5371777.png)
 
 
 ## Summary and Recommendations
