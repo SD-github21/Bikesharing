@@ -67,7 +67,7 @@ In examining the NYC Citibike Analysis Story, there are some important trends to
 ### Additional Analyses
 The analyses, so far, have focused on gender breakdown regarding bike usage across important dimensions of days and hours of usage. It is recommended that similar analyses be run comparing one-time users versus subscribers:
 
-  (1) Conduct a basic bar chart examining potential differences in tripduration by usertype 
-  (2) Repeat the checkout time line graph analysis by usertype 
-  (3) Repeat the heatmap analysis examining trips by weekday per hour to determine if these measures vary by usertype
+  - Conduct a basic bar chart examining potential differences in tripduration by usertype 
+  - Repeat the checkout time line graph analysis by usertype 
+  - Repeat the heatmap analysis examining trips by weekday per hour to determine if these measures vary by usertype
  
