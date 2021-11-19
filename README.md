@@ -60,5 +60,14 @@ Finally, the last visualization in our story is a heatmap showing the number of 
 
 
 ## Summary and Future Directions
+
+### Key findings
 In examining the NYC Citibike Analysis Story, there are some important trends to observe. First, the number of bike trips taken in August is over 2.3 million; younger riders tend to engage in longer bike trips; and males appear to comprise the majority (65.28%) of the customer population utilizing the bikesharing program. The next series of visualizations, in sum, indicate a marked trend in greater usage of bikes during peak rush hour time frames on weekdays as well as Saturdays and Sundays between 9:00am-9:00pm. Data regarding checkout times indicate that bikes tend to be checked out for less than an hour. The last heatmap provides a level of detail that indicates that there appearto be no gender differences within the customer subpopulation of one-time users whereas we see a significantly larger concentration of males being subscribers and using the program somewhat consistently throughout the week.  
 
+### Additional Analyses
+The analyses, so far, have focused on gender breakdown regarding bike usage across important dimensions of days and hours of usage. It is recommended that similar analyses be run comparing one-time users versus subscribers:
+
+  (1) Conduct a basic bar chart examining potential differences in tripduration by usertype 
+  (2) Repeat the checkout time line graph analysis by usertype 
+  (3) Repeat the heatmap analysis examining trips by weekday per hour to determine if these measures vary by usertype
+ 
