@@ -1,11 +1,12 @@
 # The NYC Citibike Analysis Story
 
 The purpose of the Bikesharing analysis was to utilize a business intelligence software, Tableau, in order to develop data analysis visualizations that can provide potential investors with valuable insights about the viability of implementing a bike-sharing program in Des Moines, Iowa based upon data from a similar program in New York City. A "NYC Citibike Story" was created within Tableau to build a dynamic and informative business proposal.  
+- Link to Tableau Story:
+ https://public.tableau.com/views/CitibikeChallenge_16371258841600/NYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ### Resources
 - Data Sources: citibike_challenge.csv
 - Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebooks, Tableau Public 2021.3
-- Link to Tableau Story https://public.tableau.com/views/CitibikeChallenge_16371258841600/NYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## (1) The NYC Citibike Overview - August Data Dashboard
 The below dashboard depicts an overview of basic information about the NYC Citibike program including the following key findings based on data from the month of August:
