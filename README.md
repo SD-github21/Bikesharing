@@ -11,7 +11,7 @@ The purpose of the Bikesharing Analysis was to utilize a business intelligence s
 ## (1) The NYC Citibike Overview - August Data Dashboard
 The below dashboard depicts an overview of basic information about the NYC Citibike program including the following key findings based on data from the month of August:
 
-  - We start with a bird's-eye view of NYC with the "Top Starting Locations" map, which reveals the concentration of top locations where customers' bike journeys began in Manhattan
+  - We start with a bird's-eye view of NYC with the "Top Starting Locations" map, which reveals the concentration of top locations where customers' bike journeys began
   - Next, our data shifts to the customer-level, where we can understand the population of customers participating in the Citibike program in more detail:
     -  An area plot showing customers' age by the average length of a bike ride tells us that younger riders tend to engage in longer bike trips.
     -  We can see that the total number of bike trips taken in August were 2,344,244
