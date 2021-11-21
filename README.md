@@ -32,7 +32,7 @@ The next slide in our story shows the peak hours of bike usage in the month of A
 ![image](https://user-images.githubusercontent.com/85533099/142352530-65190da4-9e53-4466-9e97-3c90eb2101a0.png)
 
 ## (3) Checkout Time for Users
-The next visualization in our story shows the length of time in minutes that bikes are checked out across all users in the customer population. The below graph suggests that the greatest usage occurs within the first hour time frame that a bike is checked out, with a peak occurring at the 5 minute mark and subsequently tapering down.  
+The next visualization in our story shows the length of time in minutes that bikes are checked out across all users in the customer population. The below graph suggests that the greatest usage occurs within the first hour time block that a bike is checked out, with a peak occurring at the 5 minute mark and subsequently tapering down.  
 
 ![image](https://user-images.githubusercontent.com/85533099/142353454-656491be-ac98-46dc-b6fa-aa5a4766e600.png)
 
