@@ -47,7 +47,7 @@ The next visualization in our story is a heatmap representing the number of bike
 ![image](https://user-images.githubusercontent.com/85533099/142557881-696c2f49-1875-4d68-80de-597f7d226d1d.png)
 
 ## (6) Trips by Gender (Weekday per Hour)
-The next slide in our story is a heatmap representing the number of bike trips by gender and weekday for each hour of the day. Below are the three heatmaps depicting total trips by females, males, and those with an unknown gender. The general pattern of the males and females mirror the previous heatmap results, while those with an unknown gender don't seem to have a specifity around weekdays or hours of their trips. The heatmap for males is consistent with previous results showing the greater volume of bike trips with this population, mainly because of the customer population being mainly comprised of males. 
+The next slide in our story is a heatmap representing the number of bike trips by gender and weekday for each hour of the day. Below are the three heatmaps depicting total trips by females, males, and those with an unknown gender. The general pattern of the males and females mirror the previous heatmap results, while those with an unknown gender don't seem to have a specifity around weekdays or hours of their trips. The heatmap for males is consistent with previous results showing the greater volume of bike trips within the male customer population. 
 
 ![image](https://user-images.githubusercontent.com/85533099/142559360-ce5dc38b-0101-4f28-a90a-79e072ad838d.png)
 
