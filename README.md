@@ -5,8 +5,6 @@ The purpose of the Bikesharing Analysis was to utilize a business intelligence s
  [Link to NYC Citibike Story in Tableau](https://public.tableau.com/views/CitibikeChallenge_16371258841600/NYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
  
  
-<a href="https://www.google.com/" target="_blank">Google</a>
-
 ### Resources
 - Data Sources: citibike_challenge.csv
 - Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebooks, Tableau Public 2021.3
