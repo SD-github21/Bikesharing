@@ -16,9 +16,9 @@ The below dashboard depicts an overview of basic information about the NYC Citib
     -  An area plot showing customers' age by the average length of a bike trip tells us that younger riders tend to engage in longer bike trips.
     -  We can see that the total number of bike trips taken in August were 2,344,244
     -  Finally we can view a breakdown of gender within our population of customers:
-      - Males represent the largest segment of the entire customer population (1,530,272  or 65.28%)
-      - Females comprise approximately 25.10% of the customer population (588,431)   
-      - 225,521 customers did not specific their gender and comprised 9.62% of the entire customer population
+        - Males represent the largest segment of the entire customer population (1,530,272  or 65.28%)
+        - Females comprise approximately 25.10% of the customer population (588,431)   
+        - 225,521 customers did not specific their gender and comprised 9.62% of the entire customer population
 
 ![image](https://user-images.githubusercontent.com/85533099/142350089-f044d21c-c6d5-4c24-b261-94005c70a195.png)
 
